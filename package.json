@@ -8,6 +8,7 @@
     "eject": "expo eject",
     "lint": "eslint ./src/**/*.{js,jsx} App.js --no-error-on-unmatched-pattern"
   },
+  
   "dependencies": {
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
